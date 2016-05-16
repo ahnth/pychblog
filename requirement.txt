@@ -1,5 +1,4 @@
-Django (1.9.2)
-pip (8.0.2)
-setuptools (19.6.1)
-wheel (0.26.0)
-whitenoise (2.0.6)
+-f /usr/share/pip-wheels
+Django==1.9.2
+wheel==0.26.0
+whitenoise==2.0.6
